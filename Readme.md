@@ -63,4 +63,3 @@ Let's solve problems and grow together! 🚀
 
 ✨ **Happy Coding!** ✨  
 
-🐍 Keep calm and code in Python! 🐍
