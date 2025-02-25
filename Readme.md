@@ -50,7 +50,7 @@ cd Codility-Challenges
 
 ## 📢 Please Review and Give Feedback! 💬
 
-If you see something that can be improved, feel free to open an issue or contribute a pull request! All feedback is appreciated, and we're always looking for ways to improve the code. Let's collaborate and grow together! 🤝
+If you see something that can be improved, feel free to open an issue or contribute a pull request! All feedback is appreciated, and I'm always looking for ways to improve the code. Let's collaborate and grow together! 🤝
 
 ---
 
