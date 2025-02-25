@@ -1,6 +1,6 @@
-# 🚀 My Codility Challenges Solutions in Python 🐍
+# 🚀 My Codility Exercices' Solutions in Python 🐍
 
-Welcome to **my repository** where I share my personal solutions to Codility challenges written in Python! 🌟
+Welcome to **my repository** where I share my personal solutions to Codility exercises written in Python! 🌟
 
 Codility is an excellent platform for improving coding skills and preparing for technical interviews. In this repository, I'll be posting **my solutions** to Codility problems that I’ve worked on. Let's dive in and grow together! 🚀
 
@@ -8,7 +8,7 @@ Codility is an excellent platform for improving coding skills and preparing for 
 
 ## 💡 About the Repository
 
-This repo serves as a collection of my **Codility challenge solutions**. Every day, I will add a new solution, and all of these solutions are **my own approaches** to solving the challenges. Whether you're a beginner or an experienced coder, you'll find something valuable here! 📚
+This repo serves as a collection of my **Codility exercise solutions**. Every day, I will add a new solution, and all of these solutions are **my own approaches** to solving the challenges. Whether you're a beginner or an experienced coder, you'll find something valuable here! 📚
 
 ---
 
