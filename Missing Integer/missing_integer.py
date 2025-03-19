@@ -19,7 +19,7 @@
  4. Use a for loop to iterate over the elements of the new_list.
  5. Inside the for loop, use an if statement to check for missing element(s) in 'mylist'(The original list). 
  6. [A caveat] Add an if statement to handle cases where elements in the test case are -ve and simply assume 1 as the missing element
-     or else simply return the value of x, which will be the leftmost and smallest value which does not exist in both arrays.
+     or else simply return the value of x, which will be the leftmost and smallest value which does not exist in
 
 """
 
