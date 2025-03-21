@@ -1,4 +1,15 @@
+""" 
+
+
+"""
+
 def solution(A):
+
+    # Incase it's an empty array.
+   if len(A) == 0:
+      return 1
+   
+   
    myArray = list(A)
    myArray.sort()
 
