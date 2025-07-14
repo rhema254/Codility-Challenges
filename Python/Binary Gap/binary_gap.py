@@ -7,7 +7,7 @@
 
 #  My Approach
   In this challenge, using the provided function, I created 1 test array to test out my function, and found the 
-  other after failed 3 checks. Always 'run code' so that you can see the test cases in  provided in each of the
+  other after 3 failed checks. Always 'run code' so that you can see the test cases in  provided in each of the
   Checks in the console.
 
 
